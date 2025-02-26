@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jreed2021
-- 👀 I’m interested in System Administration and Bioinformatics
-- 🌱 I’m currently learning Python and Oracle SQL
+- 👀 I’m interested in Bioinformatics, Data Analytics, and System Administration
+- 🌱 I’m currently learning Python, Oracle SQL, and R.
 - 💞️ I’m looking to collaborate on bioinformatic projects and other IT projects that align with System administration
 - 📫 How to reach me: reed.janessa21@gmail.com
 - 😄 Pronouns: She/her
